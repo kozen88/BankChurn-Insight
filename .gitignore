@@ -1,0 +1,45 @@
+FREQUENT_PATTERN_MINING/
+Imbalance_Approach/
+
+# Estensioni universali di dati e modelli
+*.csv
+*.xlsx
+*.xls
+*.json
+*.pkl
+*.pth
+*.h5
+*.zip
+
+# Cache di sistema e IDE
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+
+# File di sistema (Mac e Windows)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Cache di Python e Jupyter
+__pycache__/
+*.py[cod]
+*.class
+.ipynb_checkpoints/
+
+# File di configurazione degli IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
